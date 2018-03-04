@@ -1,0 +1,76 @@
+C:\Users\ADMIN\Documents\DS\Lab 3\19201973\TrueMarbleBiz\TrueMarbleBiz\bin\Debug\TrueMarbleBiz.exe.config
+C:\Users\ADMIN\Documents\DS\Lab 3\19201973\TrueMarbleBiz\TrueMarbleBiz\bin\Debug\TrueMarbleBiz.exe
+C:\Users\ADMIN\Documents\DS\Lab 3\19201973\TrueMarbleBiz\TrueMarbleBiz\bin\Debug\TrueMarbleBiz.pdb
+C:\Users\ADMIN\Documents\DS\Lab 3\19201973\TrueMarbleBiz\TrueMarbleBiz\bin\Debug\TrueMarbleData.exe
+C:\Users\ADMIN\Documents\DS\Lab 3\19201973\TrueMarbleBiz\TrueMarbleBiz\bin\Debug\TrueMarbleData.pdb
+C:\Users\ADMIN\Documents\DS\Lab 3\19201973\TrueMarbleBiz\TrueMarbleBiz\obj\Debug\TrueMarbleBiz.exe
+C:\Users\ADMIN\Documents\DS\Lab 3\19201973\TrueMarbleBiz\TrueMarbleBiz\obj\Debug\TrueMarbleBiz.pdb
+C:\Users\ADMIN\Documents\DS\Lab 3\19201973\TrueMarbleBiz\TrueMarbleBiz\obj\Debug\TrueMarbleBiz.csprojResolveAssemblyReference.cache
+C:\Users\it15000286\Documents\ds\Lab 3\19201973\TrueMarbleBiz\TrueMarbleBiz\bin\Debug\TrueMarbleBiz.exe.config
+C:\Users\it15000286\Documents\ds\Lab 3\19201973\TrueMarbleBiz\TrueMarbleBiz\obj\Debug\TrueMarbleBiz.exe
+C:\Users\it15000286\Documents\ds\Lab 3\19201973\TrueMarbleBiz\TrueMarbleBiz\obj\Debug\TrueMarbleBiz.pdb
+C:\Users\it15000286\Documents\ds\Lab 3\19201973\TrueMarbleBiz\TrueMarbleBiz\bin\Debug\TrueMarbleBiz.exe
+C:\Users\it15000286\Documents\ds\Lab 3\19201973\TrueMarbleBiz\TrueMarbleBiz\bin\Debug\TrueMarbleBiz.pdb
+C:\Users\it15000286\Documents\ds\Lab 3\19201973\TrueMarbleBiz\TrueMarbleBiz\bin\Debug\TrueMarbleData.exe
+C:\Users\it15000286\Documents\ds\Lab 3\19201973\TrueMarbleBiz\TrueMarbleBiz\bin\Debug\TrueMarbleData.pdb
+C:\Users\it15000286\Documents\ds\Lab 3\19201973\TrueMarbleBiz\TrueMarbleBiz\obj\Debug\TrueMarbleBiz.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Documents\DS\Lab 3\ds\Lab 3\19201973\TrueMarbleBiz\TrueMarbleBiz\bin\Debug\TrueMarbleBiz.exe.config
+C:\Users\ADMIN\Documents\DS\Lab 3\ds\Lab 3\19201973\TrueMarbleBiz\TrueMarbleBiz\obj\Debug\TrueMarbleBiz.exe
+C:\Users\ADMIN\Documents\DS\Lab 3\ds\Lab 3\19201973\TrueMarbleBiz\TrueMarbleBiz\obj\Debug\TrueMarbleBiz.pdb
+C:\Users\ADMIN\Documents\DS\Lab 3\ds\Lab 3\19201973\TrueMarbleBiz\TrueMarbleBiz\bin\Debug\TrueMarbleBiz.exe
+C:\Users\ADMIN\Documents\DS\Lab 3\ds\Lab 3\19201973\TrueMarbleBiz\TrueMarbleBiz\bin\Debug\TrueMarbleBiz.pdb
+C:\Users\ADMIN\Documents\DS\Lab 3\ds\Lab 3\19201973\TrueMarbleBiz\TrueMarbleBiz\bin\Debug\TrueMarbleData.exe
+C:\Users\ADMIN\Documents\DS\Lab 3\ds\Lab 3\19201973\TrueMarbleBiz\TrueMarbleBiz\bin\Debug\TrueMarbleData.pdb
+C:\Users\ADMIN\Documents\DS\Lab 3\ds\Lab 3\19201973\TrueMarbleBiz\TrueMarbleBiz\obj\Debug\TrueMarbleBiz.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Documents\DS\Lab 3\ds\Lab 3\19201973 Lab 3\TrueMarbleBiz\TrueMarbleBiz\bin\Debug\TrueMarbleBiz.exe.config
+C:\Users\ADMIN\Documents\DS\Lab 3\ds\Lab 3\19201973 Lab 3\TrueMarbleBiz\TrueMarbleBiz\obj\Debug\TrueMarbleBiz.exe
+C:\Users\ADMIN\Documents\DS\Lab 3\ds\Lab 3\19201973 Lab 3\TrueMarbleBiz\TrueMarbleBiz\obj\Debug\TrueMarbleBiz.pdb
+C:\Users\ADMIN\Documents\DS\Lab 3\ds\Lab 3\19201973 Lab 3\TrueMarbleBiz\TrueMarbleBiz\bin\Debug\TrueMarbleBiz.exe
+C:\Users\ADMIN\Documents\DS\Lab 3\ds\Lab 3\19201973 Lab 3\TrueMarbleBiz\TrueMarbleBiz\bin\Debug\TrueMarbleBiz.pdb
+C:\Users\ADMIN\Documents\DS\Lab 3\ds\Lab 3\19201973 Lab 3\TrueMarbleBiz\TrueMarbleBiz\bin\Debug\TrueMarbleData.exe
+C:\Users\ADMIN\Documents\DS\Lab 3\ds\Lab 3\19201973 Lab 3\TrueMarbleBiz\TrueMarbleBiz\bin\Debug\TrueMarbleData.pdb
+C:\Users\ADMIN\Documents\DS\Lab4\19201973 Lab 3\TrueMarbleBiz\TrueMarbleBiz\bin\Debug\TrueMarbleBiz.exe.config
+C:\Users\ADMIN\Documents\DS\Lab4\19201973 Lab 3\TrueMarbleBiz\TrueMarbleBiz\obj\Debug\TrueMarbleBiz.exe
+C:\Users\ADMIN\Documents\DS\Lab4\19201973 Lab 3\TrueMarbleBiz\TrueMarbleBiz\obj\Debug\TrueMarbleBiz.pdb
+C:\Users\ADMIN\Documents\DS\Lab4\19201973 Lab 3\TrueMarbleBiz\TrueMarbleBiz\bin\Debug\TrueMarbleBiz.exe
+C:\Users\ADMIN\Documents\DS\Lab4\19201973 Lab 3\TrueMarbleBiz\TrueMarbleBiz\bin\Debug\TrueMarbleBiz.pdb
+C:\Users\ADMIN\Documents\DS\Lab4\19201973 Lab 3\TrueMarbleBiz\TrueMarbleBiz\bin\Debug\TrueMarbleData.exe
+C:\Users\ADMIN\Documents\DS\Lab4\19201973 Lab 3\TrueMarbleBiz\TrueMarbleBiz\bin\Debug\TrueMarbleData.pdb
+C:\Users\ADMIN\Documents\DS\Lab4\19201973 Lab 4\TrueMarbleBiz\TrueMarbleBiz\bin\Debug\TrueMarbleBiz.exe.config
+C:\Users\ADMIN\Documents\DS\Lab4\19201973 Lab 4\TrueMarbleBiz\TrueMarbleBiz\obj\Debug\TrueMarbleBiz.exe
+C:\Users\ADMIN\Documents\DS\Lab4\19201973 Lab 4\TrueMarbleBiz\TrueMarbleBiz\obj\Debug\TrueMarbleBiz.pdb
+C:\Users\ADMIN\Documents\DS\Lab4\19201973 Lab 4\TrueMarbleBiz\TrueMarbleBiz\bin\Debug\TrueMarbleBiz.exe
+C:\Users\ADMIN\Documents\DS\Lab4\19201973 Lab 4\TrueMarbleBiz\TrueMarbleBiz\bin\Debug\TrueMarbleBiz.pdb
+C:\Users\ADMIN\Documents\DS\Lab4\19201973 Lab 4\TrueMarbleBiz\TrueMarbleBiz\bin\Debug\TrueMarbleData.exe
+C:\Users\ADMIN\Documents\DS\Lab4\19201973 Lab 4\TrueMarbleBiz\TrueMarbleBiz\bin\Debug\TrueMarbleData.pdb
+C:\Users\ADMIN\Documents\DS\Lab4\19201973 Lab 4\TrueMarbleBiz\TrueMarbleBiz\obj\Debug\TrueMarbleBiz.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Documents\DS\Lab 5\19201973 Lab 5\TrueMarbleBiz\TrueMarbleBiz\bin\Debug\TrueMarbleBiz.exe.config
+C:\Users\ADMIN\Documents\DS\Lab 5\19201973 Lab 5\TrueMarbleBiz\TrueMarbleBiz\obj\Debug\TrueMarbleBiz.exe
+C:\Users\ADMIN\Documents\DS\Lab 5\19201973 Lab 5\TrueMarbleBiz\TrueMarbleBiz\obj\Debug\TrueMarbleBiz.pdb
+C:\Users\ADMIN\Documents\DS\Lab 5\19201973 Lab 5\TrueMarbleBiz\TrueMarbleBiz\bin\Debug\TrueMarbleBiz.exe
+C:\Users\ADMIN\Documents\DS\Lab 5\19201973 Lab 5\TrueMarbleBiz\TrueMarbleBiz\bin\Debug\TrueMarbleBiz.pdb
+C:\Users\ADMIN\Documents\DS\Lab 5\19201973 Lab 5\TrueMarbleBiz\TrueMarbleBiz\bin\Debug\TrueMarbleData.exe
+C:\Users\ADMIN\Documents\DS\Lab 5\19201973 Lab 5\TrueMarbleBiz\TrueMarbleBiz\bin\Debug\TrueMarbleData.pdb
+C:\Users\ADMIN\Documents\DS\Lab 5\19201973 Lab 5\TrueMarbleBiz\TrueMarbleBiz\obj\Debug\TrueMarbleBiz.csprojResolveAssemblyReference.cache
+C:\Users\it15000286\Documents\19201973 Lab 5\TrueMarbleBiz\TrueMarbleBiz\bin\Debug\TrueMarbleBiz.exe.config
+C:\Users\it15000286\Documents\19201973 Lab 5\TrueMarbleBiz\TrueMarbleBiz\obj\Debug\TrueMarbleBiz.exe
+C:\Users\it15000286\Documents\19201973 Lab 5\TrueMarbleBiz\TrueMarbleBiz\obj\Debug\TrueMarbleBiz.pdb
+C:\Users\it15000286\Documents\19201973 Lab 07\TrueMarbleBiz\TrueMarbleBiz\bin\Debug\TrueMarbleBiz.exe.config
+C:\Users\it15000286\Documents\19201973 Lab 07\TrueMarbleBiz\TrueMarbleBiz\obj\Debug\TrueMarbleBiz.exe
+C:\Users\it15000286\Documents\19201973 Lab 07\TrueMarbleBiz\TrueMarbleBiz\obj\Debug\TrueMarbleBiz.pdb
+C:\Users\it15000286\Documents\19201973 Lab 07\TrueMarbleBiz\TrueMarbleBiz\bin\Debug\TrueMarbleBiz.exe
+C:\Users\it15000286\Documents\19201973 Lab 07\TrueMarbleBiz\TrueMarbleBiz\bin\Debug\TrueMarbleBiz.pdb
+C:\Users\it15000286\Documents\19201973 Lab 07\TrueMarbleBiz\TrueMarbleBiz\bin\Debug\TrueMarbleData.exe
+C:\Users\it15000286\Documents\19201973 Lab 07\TrueMarbleBiz\TrueMarbleBiz\bin\Debug\TrueMarbleData.pdb
+C:\Users\it15000286\Documents\19201973 Lab 07\TrueMarbleBiz\TrueMarbleBiz\obj\Debug\TrueMarbleBiz.csprojResolveAssemblyReference.cache
+C:\Users\it15000286\Documents\19201973 Lab 08\TrueMarbleBiz\TrueMarbleBiz\bin\Debug\TrueMarbleBiz.exe.config
+C:\Users\it15000286\Documents\19201973 Lab 08\TrueMarbleBiz\TrueMarbleBiz\obj\Debug\TrueMarbleBiz.exe
+C:\Users\it15000286\Documents\19201973 Lab 08\TrueMarbleBiz\TrueMarbleBiz\obj\Debug\TrueMarbleBiz.pdb
+C:\Users\ADMIN\Documents\curtin\sem 1\DS\Assignment\19201973 Lab 08\TrueMarbleBiz\TrueMarbleBiz\bin\Debug\TrueMarbleBiz.exe.config
+C:\Users\ADMIN\Documents\curtin\sem 1\DS\Assignment\19201973 Lab 08\TrueMarbleBiz\TrueMarbleBiz\obj\Debug\TrueMarbleBiz.exe
+C:\Users\ADMIN\Documents\curtin\sem 1\DS\Assignment\19201973 Lab 08\TrueMarbleBiz\TrueMarbleBiz\obj\Debug\TrueMarbleBiz.pdb
+C:\Users\ADMIN\Documents\curtin\sem 1\DS\Assignment\19201973 Lab 08\TrueMarbleBiz\TrueMarbleBiz\bin\Debug\TrueMarbleBiz.exe
+C:\Users\ADMIN\Documents\curtin\sem 1\DS\Assignment\19201973 Lab 08\TrueMarbleBiz\TrueMarbleBiz\bin\Debug\TrueMarbleBiz.pdb
+C:\Users\ADMIN\Documents\curtin\sem 1\DS\Assignment\19201973 Lab 08\TrueMarbleBiz\TrueMarbleBiz\bin\Debug\TrueMarbleData.exe
+C:\Users\ADMIN\Documents\curtin\sem 1\DS\Assignment\19201973 Lab 08\TrueMarbleBiz\TrueMarbleBiz\bin\Debug\TrueMarbleData.pdb
+C:\Users\ADMIN\Documents\curtin\sem 1\DS\Assignment\19201973 Lab 08\TrueMarbleBiz\TrueMarbleBiz\obj\Debug\TrueMarbleBiz.csprojResolveAssemblyReference.cache

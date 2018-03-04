@@ -1,0 +1,68 @@
+C:\Users\it15000286\Documents\DS\SC400\TrueMarbleData\bin\Debug\TrueMarbleData.exe.config
+C:\Users\it15000286\Documents\DS\SC400\TrueMarbleData\bin\Debug\TrueMarbleData.exe
+C:\Users\it15000286\Documents\DS\SC400\TrueMarbleData\bin\Debug\TrueMarbleData.pdb
+C:\Users\it15000286\Documents\DS\SC400\TrueMarbleData\obj\Debug\TrueMarbleData.csprojResolveAssemblyReference.cache
+C:\Users\it15000286\Documents\DS\SC400\TrueMarbleData\obj\Debug\TrueMarbleData.exe
+C:\Users\it15000286\Documents\DS\SC400\TrueMarbleData\obj\Debug\TrueMarbleData.pdb
+C:\Users\ADMIN\Documents\DS\SC400\TrueMarbleData\bin\Debug\TrueMarbleData.exe.config
+C:\Users\ADMIN\Documents\DS\SC400\TrueMarbleData\obj\Debug\TrueMarbleData.exe
+C:\Users\ADMIN\Documents\DS\SC400\TrueMarbleData\obj\Debug\TrueMarbleData.pdb
+C:\Users\ADMIN\Documents\DS\SC400\TrueMarbleData\bin\Debug\TrueMarbleData.exe
+C:\Users\ADMIN\Documents\DS\SC400\TrueMarbleData\bin\Debug\TrueMarbleData.pdb
+C:\Users\ADMIN\Documents\DS\SC400\TrueMarbleData\obj\Debug\TrueMarbleData.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Documents\DS\DS ver 2\DS\SC400\TrueMarbleData\bin\Debug\TrueMarbleData.exe.config
+C:\Users\ADMIN\Documents\DS\DS ver 2\DS\SC400\TrueMarbleData\obj\Debug\TrueMarbleData.exe
+C:\Users\ADMIN\Documents\DS\DS ver 2\DS\SC400\TrueMarbleData\obj\Debug\TrueMarbleData.pdb
+C:\Users\ADMIN\Documents\DS\DS ver 2\DS\SC400\TrueMarbleData\bin\Debug\TrueMarbleData.exe
+C:\Users\ADMIN\Documents\DS\DS ver 2\DS\SC400\TrueMarbleData\bin\Debug\TrueMarbleData.pdb
+C:\Users\ADMIN\Documents\DS\Lab 3\19201973\TrueMarbleData\bin\Debug\TrueMarbleData.exe.config
+C:\Users\ADMIN\Documents\DS\Lab 3\19201973\TrueMarbleData\bin\Debug\TrueMarbleData.exe
+C:\Users\ADMIN\Documents\DS\Lab 3\19201973\TrueMarbleData\bin\Debug\TrueMarbleData.pdb
+C:\Users\ADMIN\Documents\DS\Lab 3\19201973\TrueMarbleData\obj\Debug\TrueMarbleData.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Documents\DS\Lab 3\19201973\TrueMarbleData\obj\Debug\TrueMarbleData.exe
+C:\Users\ADMIN\Documents\DS\Lab 3\19201973\TrueMarbleData\obj\Debug\TrueMarbleData.pdb
+C:\Users\it15000286\Documents\ds\Lab 3\19201973\TrueMarbleData\bin\Debug\TrueMarbleData.exe.config
+C:\Users\it15000286\Documents\ds\Lab 3\19201973\TrueMarbleData\obj\Debug\TrueMarbleData.exe
+C:\Users\it15000286\Documents\ds\Lab 3\19201973\TrueMarbleData\obj\Debug\TrueMarbleData.pdb
+C:\Users\it15000286\Documents\ds\Lab 3\19201973\TrueMarbleData\bin\Debug\TrueMarbleData.exe
+C:\Users\it15000286\Documents\ds\Lab 3\19201973\TrueMarbleData\bin\Debug\TrueMarbleData.pdb
+C:\Users\it15000286\Documents\ds\Lab 3\19201973\TrueMarbleData\obj\Debug\TrueMarbleData.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Documents\DS\Lab 3\ds\Lab 3\19201973\TrueMarbleData\bin\Debug\TrueMarbleData.exe.config
+C:\Users\ADMIN\Documents\DS\Lab 3\ds\Lab 3\19201973\TrueMarbleData\obj\Debug\TrueMarbleData.exe
+C:\Users\ADMIN\Documents\DS\Lab 3\ds\Lab 3\19201973\TrueMarbleData\obj\Debug\TrueMarbleData.pdb
+C:\Users\ADMIN\Documents\DS\Lab 3\ds\Lab 3\19201973\TrueMarbleData\bin\Debug\TrueMarbleData.exe
+C:\Users\ADMIN\Documents\DS\Lab 3\ds\Lab 3\19201973\TrueMarbleData\bin\Debug\TrueMarbleData.pdb
+C:\Users\ADMIN\Documents\DS\Lab 3\ds\Lab 3\19201973\TrueMarbleData\obj\Debug\TrueMarbleData.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Documents\DS\Lab 3\ds\Lab 3\19201973 Lab 3\TrueMarbleData\bin\Debug\TrueMarbleData.exe.config
+C:\Users\ADMIN\Documents\DS\Lab 3\ds\Lab 3\19201973 Lab 3\TrueMarbleData\obj\Debug\TrueMarbleData.exe
+C:\Users\ADMIN\Documents\DS\Lab 3\ds\Lab 3\19201973 Lab 3\TrueMarbleData\obj\Debug\TrueMarbleData.pdb
+C:\Users\ADMIN\Documents\DS\Lab4\19201973 Lab 3\TrueMarbleData\bin\Debug\TrueMarbleData.exe.config
+C:\Users\ADMIN\Documents\DS\Lab4\19201973 Lab 3\TrueMarbleData\obj\Debug\TrueMarbleData.exe
+C:\Users\ADMIN\Documents\DS\Lab4\19201973 Lab 3\TrueMarbleData\obj\Debug\TrueMarbleData.pdb
+C:\Users\ADMIN\Documents\DS\Lab4\19201973 Lab 4\TrueMarbleData\bin\Debug\TrueMarbleData.exe.config
+C:\Users\ADMIN\Documents\DS\Lab4\19201973 Lab 4\TrueMarbleData\obj\Debug\TrueMarbleData.exe
+C:\Users\ADMIN\Documents\DS\Lab4\19201973 Lab 4\TrueMarbleData\obj\Debug\TrueMarbleData.pdb
+C:\Users\ADMIN\Documents\DS\Lab4\19201973 Lab 4\TrueMarbleData\bin\Debug\TrueMarbleData.exe
+C:\Users\ADMIN\Documents\DS\Lab4\19201973 Lab 4\TrueMarbleData\bin\Debug\TrueMarbleData.pdb
+C:\Users\ADMIN\Documents\DS\Lab4\19201973 Lab 4\TrueMarbleData\obj\Debug\TrueMarbleData.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Documents\DS\Lab 5\19201973 Lab 5\TrueMarbleData\bin\Debug\TrueMarbleData.exe.config
+C:\Users\ADMIN\Documents\DS\Lab 5\19201973 Lab 5\TrueMarbleData\obj\Debug\TrueMarbleData.exe
+C:\Users\ADMIN\Documents\DS\Lab 5\19201973 Lab 5\TrueMarbleData\obj\Debug\TrueMarbleData.pdb
+C:\Users\ADMIN\Documents\DS\Lab 5\19201973 Lab 5\TrueMarbleData\bin\Debug\TrueMarbleData.exe
+C:\Users\ADMIN\Documents\DS\Lab 5\19201973 Lab 5\TrueMarbleData\bin\Debug\TrueMarbleData.pdb
+C:\Users\ADMIN\Documents\DS\Lab 5\19201973 Lab 5\TrueMarbleData\obj\Debug\TrueMarbleData.csprojResolveAssemblyReference.cache
+C:\Users\it15000286\Documents\19201973 Lab 5\TrueMarbleData\bin\Debug\TrueMarbleData.exe.config
+C:\Users\it15000286\Documents\19201973 Lab 5\TrueMarbleData\obj\Debug\TrueMarbleData.exe
+C:\Users\it15000286\Documents\19201973 Lab 5\TrueMarbleData\obj\Debug\TrueMarbleData.pdb
+C:\Users\it15000286\Documents\19201973 Lab 07\TrueMarbleData\bin\Debug\TrueMarbleData.exe.config
+C:\Users\it15000286\Documents\19201973 Lab 07\TrueMarbleData\obj\Debug\TrueMarbleData.exe
+C:\Users\it15000286\Documents\19201973 Lab 07\TrueMarbleData\obj\Debug\TrueMarbleData.pdb
+C:\Users\it15000286\Documents\19201973 Lab 07\TrueMarbleData\bin\Debug\TrueMarbleData.exe
+C:\Users\it15000286\Documents\19201973 Lab 07\TrueMarbleData\bin\Debug\TrueMarbleData.pdb
+C:\Users\it15000286\Documents\19201973 Lab 07\TrueMarbleData\obj\Debug\TrueMarbleData.csprojResolveAssemblyReference.cache
+C:\Users\it15000286\Documents\19201973 Lab 08\TrueMarbleData\bin\Debug\TrueMarbleData.exe.config
+C:\Users\it15000286\Documents\19201973 Lab 08\TrueMarbleData\obj\Debug\TrueMarbleData.exe
+C:\Users\it15000286\Documents\19201973 Lab 08\TrueMarbleData\obj\Debug\TrueMarbleData.pdb
+C:\Users\ADMIN\Documents\curtin\sem 1\DS\Assignment\19201973 Lab 08\TrueMarbleData\bin\Debug\TrueMarbleData.exe.config
+C:\Users\ADMIN\Documents\curtin\sem 1\DS\Assignment\19201973 Lab 08\TrueMarbleData\obj\Debug\TrueMarbleData.exe
+C:\Users\ADMIN\Documents\curtin\sem 1\DS\Assignment\19201973 Lab 08\TrueMarbleData\obj\Debug\TrueMarbleData.pdb

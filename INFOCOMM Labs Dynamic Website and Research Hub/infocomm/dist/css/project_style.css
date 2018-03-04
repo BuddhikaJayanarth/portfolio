@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* CSS Document */
+.project_thumbmail{
+	width:100px;
+	height:100px;
+	border:2px solid;
+	float:left;
+	
+}
+.project_container{
+	float:left;
+	margin-left:5px;
+	width:800px;
+}
+.project_container .project_category_date{
+	float:left;
+}
+
+
+.project_container .project_content{
+	float:left;
+	margin-top:8px;
+}
+
+@media only screen and (max-width: 768px){
+	.project_container{
+		float:left;
+		margin-left:5px;
+		width:300px;
+	}
+}

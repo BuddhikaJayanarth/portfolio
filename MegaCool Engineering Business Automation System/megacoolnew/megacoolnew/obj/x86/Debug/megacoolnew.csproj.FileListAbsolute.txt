@@ -1,0 +1,177 @@
+C:\Users\Tharaka\Desktop\newmegacool\megacoolnew\megacoolnew\bin\Debug\megacoolnew.exe
+C:\Users\Tharaka\Desktop\newmegacool\megacoolnew\megacoolnew\bin\Debug\megacoolnew.pdb
+C:\Users\Tharaka\Desktop\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tharaka\Desktop\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.Main.resources
+C:\Users\Tharaka\Desktop\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.Properties.Resources.resources
+C:\Users\Tharaka\Desktop\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Tharaka\Desktop\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tharaka\Desktop\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.exe
+C:\Users\Tharaka\Desktop\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.pdb
+C:\Users\Tharaka\Desktop\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\Accounts.Account.resources
+C:\Users\Tharaka\Desktop\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.customer.resources
+C:\Users\Tharaka\Desktop\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.delivery.resources
+C:\Users\Tharaka\Desktop\newmegacool\megacoolnew\megacoolnew\bin\Debug\megacoolnew.exe.config
+C:\Users\Tharaka\Desktop\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\Repair.Form1.resources
+C:\Users\Tharaka\Desktop\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.Stock.resources
+C:\Users\esh_d\Desktop\newmegacool\newmegacool\megacoolnew\megacoolnew\bin\Debug\megacoolnew.exe.config
+C:\Users\esh_d\Desktop\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.exe
+C:\Users\esh_d\Desktop\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.pdb
+C:\Users\esh_d\Desktop\newmegacool\newmegacool\megacoolnew\megacoolnew\bin\Debug\megacoolnew.exe
+C:\Users\esh_d\Desktop\newmegacool\newmegacool\megacoolnew\megacoolnew\bin\Debug\megacoolnew.pdb
+C:\Users\esh_d\Desktop\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\Accounts.Account.resources
+C:\Users\esh_d\Desktop\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.customer.resources
+C:\Users\esh_d\Desktop\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.delivery.resources
+C:\Users\esh_d\Desktop\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\Repair.Form1.resources
+C:\Users\esh_d\Desktop\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.Stock.resources
+C:\Users\esh_d\Desktop\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.Main.resources
+C:\Users\esh_d\Desktop\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.Properties.Resources.resources
+C:\Users\esh_d\Desktop\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.csproj.GenerateResource.Cache
+C:\Users\esh_d\Desktop\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.Employee.resources
+D:\Eshan\SLIIT\2nd Year\2nd Semester\ITP\Project\Employee Management\newmegacool\newmegacool\megacoolnew\megacoolnew\bin\Debug\megacoolnew.exe.config
+D:\Eshan\SLIIT\2nd Year\2nd Semester\ITP\Project\Employee Management\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.exe
+D:\Eshan\SLIIT\2nd Year\2nd Semester\ITP\Project\Employee Management\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.pdb
+D:\Eshan\SLIIT\2nd Year\2nd Semester\ITP\Project\Employee Management\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.customer.resources
+D:\Eshan\SLIIT\2nd Year\2nd Semester\ITP\Project\Employee Management\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.delivery.resources
+D:\Eshan\SLIIT\2nd Year\2nd Semester\ITP\Project\Employee Management\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.Employee.resources
+D:\Eshan\SLIIT\2nd Year\2nd Semester\ITP\Project\Employee Management\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.Home.resources
+D:\Eshan\SLIIT\2nd Year\2nd Semester\ITP\Project\Employee Management\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.Login.resources
+D:\Eshan\SLIIT\2nd Year\2nd Semester\ITP\Project\Employee Management\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.Stock.resources
+D:\Eshan\SLIIT\2nd Year\2nd Semester\ITP\Project\Employee Management\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.Properties.Resources.resources
+D:\Eshan\SLIIT\2nd Year\2nd Semester\ITP\Project\Employee Management\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.csproj.GenerateResource.Cache
+D:\Eshan\SLIIT\2nd Year\2nd Semester\ITP\Project\Employee Management\newmegacool\newmegacool\megacoolnew\megacoolnew\bin\Debug\megacoolnew.exe
+D:\Eshan\SLIIT\2nd Year\2nd Semester\ITP\Project\Employee Management\newmegacool\newmegacool\megacoolnew\megacoolnew\bin\Debug\megacoolnew.pdb
+D:\Eshan\SLIIT\2nd Year\2nd Semester\ITP\Project\Employee Management\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.Account.resources
+D:\Eshan\SLIIT\2nd Year\2nd Semester\ITP\Project\Employee Management\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.Form1.resources
+D:\Eshan\SLIIT\2nd Year\2nd Semester\ITP\Project\Employee Management\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.Offsite.resources
+D:\Eshan\SLIIT\2nd Year\2nd Semester\ITP\Project\Employee Management\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.Sales.resources
+D:\Eshan\SLIIT\2nd Year\2nd Semester\ITP\Project\Mega Cool Engineering\newmegacool\newmegacool\megacoolnew\megacoolnew\bin\Debug\megacoolnew.exe.config
+D:\Eshan\SLIIT\2nd Year\2nd Semester\ITP\Project\Mega Cool Engineering\newmegacool\newmegacool\megacoolnew\megacoolnew\bin\Debug\megacoolnew.exe
+D:\Eshan\SLIIT\2nd Year\2nd Semester\ITP\Project\Mega Cool Engineering\newmegacool\newmegacool\megacoolnew\megacoolnew\bin\Debug\megacoolnew.pdb
+D:\Eshan\SLIIT\2nd Year\2nd Semester\ITP\Project\Mega Cool Engineering\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.Account.resources
+D:\Eshan\SLIIT\2nd Year\2nd Semester\ITP\Project\Mega Cool Engineering\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.customer.resources
+D:\Eshan\SLIIT\2nd Year\2nd Semester\ITP\Project\Mega Cool Engineering\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.delivery.resources
+D:\Eshan\SLIIT\2nd Year\2nd Semester\ITP\Project\Mega Cool Engineering\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.Employee.resources
+D:\Eshan\SLIIT\2nd Year\2nd Semester\ITP\Project\Mega Cool Engineering\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.Home.resources
+D:\Eshan\SLIIT\2nd Year\2nd Semester\ITP\Project\Mega Cool Engineering\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.Login.resources
+D:\Eshan\SLIIT\2nd Year\2nd Semester\ITP\Project\Mega Cool Engineering\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.Offsite.resources
+D:\Eshan\SLIIT\2nd Year\2nd Semester\ITP\Project\Mega Cool Engineering\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.Form1.resources
+D:\Eshan\SLIIT\2nd Year\2nd Semester\ITP\Project\Mega Cool Engineering\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.Properties.Resources.resources
+D:\Eshan\SLIIT\2nd Year\2nd Semester\ITP\Project\Mega Cool Engineering\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.Sales.resources
+D:\Eshan\SLIIT\2nd Year\2nd Semester\ITP\Project\Mega Cool Engineering\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.Stock.resources
+D:\Eshan\SLIIT\2nd Year\2nd Semester\ITP\Project\Mega Cool Engineering\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.csproj.GenerateResource.Cache
+D:\Eshan\SLIIT\2nd Year\2nd Semester\ITP\Project\Mega Cool Engineering\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.exe
+D:\Eshan\SLIIT\2nd Year\2nd Semester\ITP\Project\Mega Cool Engineering\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.pdb
+D:\A ITP Project we Done\newmegacool\newmegacool\megacoolnew\megacoolnew\bin\Debug\megacoolnew.exe.config
+D:\A ITP Project we Done\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.exe
+D:\A ITP Project we Done\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.pdb
+D:\A ITP Project we Done\newmegacool\newmegacool\megacoolnew\megacoolnew\bin\Debug\megacoolnew.exe
+D:\A ITP Project we Done\newmegacool\newmegacool\megacoolnew\megacoolnew\bin\Debug\megacoolnew.pdb
+D:\A ITP Project we Done\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.Account.resources
+D:\A ITP Project we Done\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.customer.resources
+D:\A ITP Project we Done\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.delivery.resources
+D:\A ITP Project we Done\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.Employee.resources
+D:\A ITP Project we Done\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.Home.resources
+D:\A ITP Project we Done\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.Login.resources
+D:\A ITP Project we Done\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.Offsite.resources
+D:\A ITP Project we Done\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.Form1.resources
+D:\A ITP Project we Done\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.Properties.Resources.resources
+D:\A ITP Project we Done\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.Stock.resources
+D:\A ITP Project we Done\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.csproj.GenerateResource.Cache
+D:\A ITP Project we Done\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.Sales.resources
+D:\A ITP Project we Done\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.csprojResolveAssemblyReference.cache
+D:\A ITP Project we Done\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.FrmRep1.resources
+D:\A ITP Project we Done\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.FrmSto1.resources
+D:\A ITP Project we Done\Test1\newmegacool\newmegacool\megacoolnew\megacoolnew\bin\Debug\megacoolnew.exe.config
+D:\A ITP Project we Done\Test1\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.exe
+D:\A ITP Project we Done\Test1\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.pdb
+D:\A ITP Project we Done\Test1\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.csprojResolveAssemblyReference.cache
+D:\A ITP Project we Done\Test1\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.Account.resources
+D:\A ITP Project we Done\Test1\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.customer.resources
+D:\A ITP Project we Done\Test1\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.delivery.resources
+D:\A ITP Project we Done\Test1\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.Employee.resources
+D:\A ITP Project we Done\Test1\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.FrmRep1.resources
+D:\A ITP Project we Done\Test1\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.FrmSto1.resources
+D:\A ITP Project we Done\Test1\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.Home.resources
+D:\A ITP Project we Done\Test1\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.Login.resources
+D:\A ITP Project we Done\Test1\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.Offsite.resources
+D:\A ITP Project we Done\Test1\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.Form1.resources
+D:\A ITP Project we Done\Test1\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.Properties.Resources.resources
+D:\A ITP Project we Done\Test1\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.Sales.resources
+D:\A ITP Project we Done\Test1\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.Stock.resources
+D:\A ITP Project we Done\Test1\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.csproj.GenerateResource.Cache
+D:\A ITP Project we Done\Test1\newmegacool\newmegacool\megacoolnew\megacoolnew\bin\Debug\megacoolnew.exe
+D:\A ITP Project we Done\Test1\newmegacool\newmegacool\megacoolnew\megacoolnew\bin\Debug\megacoolnew.pdb
+D:\A ITP Project we Done\Test1\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.EmployeeAdditionalPayments.resources
+D:\A ITP Project we Done\FinalPro\newmegacool\newmegacool\megacoolnew\megacoolnew\bin\Debug\megacoolnew.exe.config
+D:\A ITP Project we Done\FinalPro\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.exe
+D:\A ITP Project we Done\FinalPro\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.pdb
+D:\A ITP Project we Done\FinalPro\newmegacool\newmegacool\megacoolnew\megacoolnew\bin\Debug\megacoolnew.exe
+D:\A ITP Project we Done\FinalPro\newmegacool\newmegacool\megacoolnew\megacoolnew\bin\Debug\megacoolnew.pdb
+D:\A ITP Project we Done\FinalPro\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.csprojResolveAssemblyReference.cache
+D:\A ITP Project we Done\FinalPro\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.Account.resources
+D:\A ITP Project we Done\FinalPro\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.customer.resources
+D:\A ITP Project we Done\FinalPro\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.delivery.resources
+D:\A ITP Project we Done\FinalPro\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.Employee.resources
+D:\A ITP Project we Done\FinalPro\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.EmployeeAdditionalPayments.resources
+D:\A ITP Project we Done\FinalPro\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.FrmRep1.resources
+D:\A ITP Project we Done\FinalPro\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.FrmSto1.resources
+D:\A ITP Project we Done\FinalPro\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.Home.resources
+D:\A ITP Project we Done\FinalPro\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.Login.resources
+D:\A ITP Project we Done\FinalPro\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.Offsite.resources
+D:\A ITP Project we Done\FinalPro\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.Form1.resources
+D:\A ITP Project we Done\FinalPro\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.Properties.Resources.resources
+D:\A ITP Project we Done\FinalPro\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.Sales.resources
+D:\A ITP Project we Done\FinalPro\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.Stock.resources
+D:\A ITP Project we Done\FinalPro\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.csproj.GenerateResource.Cache
+D:\A ITP Project we Done\FinalProject\newmegacool\newmegacool\megacoolnew\megacoolnew\bin\Debug\megacoolnew.exe.config
+D:\A ITP Project we Done\FinalProject\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.exe
+D:\A ITP Project we Done\FinalProject\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.pdb
+D:\A ITP Project we Done\FinalProject\newmegacool\newmegacool\megacoolnew\megacoolnew\bin\Debug\megacoolnew.exe
+D:\A ITP Project we Done\FinalProject\newmegacool\newmegacool\megacoolnew\megacoolnew\bin\Debug\megacoolnew.pdb
+D:\A ITP Project we Done\FinalProject\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.csprojResolveAssemblyReference.cache
+D:\A ITP Project we Done\FinalProject\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.Account.resources
+D:\A ITP Project we Done\FinalProject\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.customer.resources
+D:\A ITP Project we Done\FinalProject\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.delivery.resources
+D:\A ITP Project we Done\FinalProject\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.Employee.resources
+D:\A ITP Project we Done\FinalProject\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.EmployeeAdditionalPayments.resources
+D:\A ITP Project we Done\FinalProject\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.FrmRep1.resources
+D:\A ITP Project we Done\FinalProject\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.FrmSto1.resources
+D:\A ITP Project we Done\FinalProject\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.Home.resources
+D:\A ITP Project we Done\FinalProject\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.Login.resources
+D:\A ITP Project we Done\FinalProject\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.Offsite.resources
+D:\A ITP Project we Done\FinalProject\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.Form1.resources
+D:\A ITP Project we Done\FinalProject\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.Properties.Resources.resources
+D:\A ITP Project we Done\FinalProject\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.Sales.resources
+D:\A ITP Project we Done\FinalProject\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.Stock.resources
+D:\A ITP Project we Done\FinalProject\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.csproj.GenerateResource.Cache
+D:\A ITP Project we Done\FinalProject\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.StockReoprt1.resources
+D:\A ITP Project we Done\FinalProject\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.CusRep1.resources
+D:\A ITP Project we Done\FinalProject\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.CusRep2.resources
+D:\A ITP Project we Done\FinalProject\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.AccountReport1.resources
+D:\A ITP Project we Done\FinalProject\newmegacool\newmegacool\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.AccountReport2.resources
+C:\Users\ADMIN\Documents\ITP Finalest\FinalProject\megacoolnew\megacoolnew\bin\Debug\megacoolnew.exe.config
+C:\Users\ADMIN\Documents\ITP Finalest\FinalProject\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.exe
+C:\Users\ADMIN\Documents\ITP Finalest\FinalProject\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.pdb
+C:\Users\ADMIN\Documents\ITP Finalest\FinalProject\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Documents\ITP Finalest\FinalProject\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.Account.resources
+C:\Users\ADMIN\Documents\ITP Finalest\FinalProject\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.AccountReport1.resources
+C:\Users\ADMIN\Documents\ITP Finalest\FinalProject\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.AccountReport2.resources
+C:\Users\ADMIN\Documents\ITP Finalest\FinalProject\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.CusRep1.resources
+C:\Users\ADMIN\Documents\ITP Finalest\FinalProject\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.CusRep2.resources
+C:\Users\ADMIN\Documents\ITP Finalest\FinalProject\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.customer.resources
+C:\Users\ADMIN\Documents\ITP Finalest\FinalProject\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.delivery.resources
+C:\Users\ADMIN\Documents\ITP Finalest\FinalProject\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.Employee.resources
+C:\Users\ADMIN\Documents\ITP Finalest\FinalProject\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.EmployeeAdditionalPayments.resources
+C:\Users\ADMIN\Documents\ITP Finalest\FinalProject\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.FrmRep1.resources
+C:\Users\ADMIN\Documents\ITP Finalest\FinalProject\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.FrmSto1.resources
+C:\Users\ADMIN\Documents\ITP Finalest\FinalProject\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.Home.resources
+C:\Users\ADMIN\Documents\ITP Finalest\FinalProject\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.Login.resources
+C:\Users\ADMIN\Documents\ITP Finalest\FinalProject\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.Offsite.resources
+C:\Users\ADMIN\Documents\ITP Finalest\FinalProject\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.Form1.resources
+C:\Users\ADMIN\Documents\ITP Finalest\FinalProject\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.Properties.Resources.resources
+C:\Users\ADMIN\Documents\ITP Finalest\FinalProject\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.Sales.resources
+C:\Users\ADMIN\Documents\ITP Finalest\FinalProject\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.Stock.resources
+C:\Users\ADMIN\Documents\ITP Finalest\FinalProject\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.StockReoprt1.resources
+C:\Users\ADMIN\Documents\ITP Finalest\FinalProject\megacoolnew\megacoolnew\obj\x86\Debug\megacoolnew.csproj.GenerateResource.Cache
+C:\Users\ADMIN\Documents\ITP Finalest\FinalProject\megacoolnew\megacoolnew\bin\Debug\megacoolnew.exe
+C:\Users\ADMIN\Documents\ITP Finalest\FinalProject\megacoolnew\megacoolnew\bin\Debug\megacoolnew.pdb

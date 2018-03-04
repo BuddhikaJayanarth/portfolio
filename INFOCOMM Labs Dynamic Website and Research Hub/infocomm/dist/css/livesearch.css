@@ -1,0 +1,105 @@
+.search_list_item_container {
+    width:270px;
+    height: 60px;
+    padding: 5px 0;
+	background-color:#FFF;
+
+	    -webkit-box-shadow: 0px 2px 6px 0px rgba(50, 50, 50, 0.75);
+    -moz-box-shadow:    0px 1px 3px 0px rgba(50, 50, 50, 0.75);
+    box-shadow:    0px 1px 3px 0px rgba(50, 50, 50, 0.75);
+	z-index:1;
+}
+
+.searchup {
+    padding: 0;
+    list-style-type: none;
+		z-index:1;
+		position: absolute;
+
+}
+
+.searchimage {
+    width: 60px;
+    height: 60px;
+    margin-right: 10px;
+	margin-left: 10px;
+    float: left;
+		z-index:1;
+		
+
+}
+
+.searchlabel {
+		z-index:1;
+			margin-left: 10px;
+
+}
+.searchdescription {
+    font-style: italic;
+    font-size: 0.8em;
+    color: gray;
+		z-index:1;
+			margin-left: 10px;
+
+}
+
+.fundergallery {
+		position: relative;
+		max-width: 1024px;
+		margin-left: 10px;
+		padding: 8px;
+		color: #222;
+		border: 1px solid #ccc;
+	}
+
+	.fundercard:after {
+		display: block;
+		position: absolute;
+		bottom: 4px;
+		right: 4px;
+		width: 4px;
+		height: 4px;
+		background-color: #444;
+		content: '';
+	}
+
+	.fundercard {
+		display: inline-block;
+		position: relative;
+		width: 20%;
+		min-width: 128px;
+		margin: 8px;
+		padding: 1%;
+		vertical-align: top;
+		background-color: #eee;
+		box-shadow: 2px 2px 4px #aaa;
+	}
+
+	.fundercard:hover { 
+		background-color: #2ABC72;
+	}
+
+	.fundercard .funderfeature {
+
+		display: block;
+		width: 144px;
+		height: 144px;
+		margin-bottom: .2em;
+		margin-left: 0px;
+		text-transform: uppercase;
+		color: black;
+		font-size: 0.8em;
+		line-height: .75;
+		background-color: #444;
+		border: 1px solid #888;
+	}
+
+	.fundercard .fundercaption {
+		display: block;
+		padding-top: 8px;
+		border-top: 2px groove #fff;
+	}
+
+	.fundercard .fundercaption:empty {
+		border-top-style: hidden;
+	}
